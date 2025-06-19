@@ -11,7 +11,7 @@ class ForecastViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("hi")
         // Do any additional setup after loading the view.
     }
     
